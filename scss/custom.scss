@@ -1,0 +1,8 @@
+// Override Bootstrap Styling see /bootrap/scss/_variables.scss for options
+
+$theme-colors: (
+  "primary": #ff8300,
+);
+
+
+@import "../bootstrap/scss/bootstrap";
